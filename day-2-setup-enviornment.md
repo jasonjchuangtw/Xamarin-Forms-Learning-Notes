@@ -25,14 +25,6 @@ open '/usr/local/Caskroom/visual-studio/2017-01-20-1/Install Visual Studio for M
 
 啟動安裝程式如下：
 
-|  |  |
-| :--- | :--- |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
 
 
 
