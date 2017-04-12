@@ -27,4 +27,9 @@ open '/usr/local/Caskroom/visual-studio/2017-01-20-1/Install Visual Studio for M
 
 ![](https://github.com/jasonhuangtw/xamarin-froms-learning-notes/blob/master/images/Visual%20Studio%20for%20Mac安裝/01_License_Terms.jpg)
 
+![](https://github.com/jasonhuangtw/xamarin-froms-learning-notes/blob/master/images/Visual%20Studio%20for%20Mac安裝/02_Preparing%20to%20install%20Visual%20Studio%20for%20Mac%20Preview.jpg)
+
+![](https://github.com/jasonhuangtw/xamarin-froms-learning-notes/blob/master/images/Visual%20Studio%20for%20Mac安裝/03_Visual%20Studio%20for%20Mac%20Preview%20installer.jpg)
+
+![](https://github.com/jasonhuangtw/xamarin-froms-learning-notes/blob/master/images/Visual%20Studio%20for%20Mac安裝/04_Visual%20Studio%20for%20Mac%20Preview%20Installer.jpg)
 
