@@ -3,7 +3,7 @@
 3. [Xamarin 開發筆記](https://www.gitbook.com/book/vulcanlee/xamarin-forms-develop-notes/details)
 4. 邊緣技術宅羅根 [Xamarin 教學](http://www.loganedge.tw/search/label/Xamarin 教學)
 5. [Developer Center - Xamarin](https://developer.xamarin.com)
-6. \[Xamarin.Forms Succinctly\]\(\)
+6. \[Xamarin.Forms Succinctly\]\(https://www.syncfusion.com/resources/techportal/details/ebooks/xamarinforms\)
 
 
 
