@@ -1,4 +1,4 @@
-# Xamarin.Forms開發者學習手札
+# Xamarin.Forms學習日誌
 
 我是jasonhuangtw。
 
