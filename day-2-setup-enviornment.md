@@ -25,6 +25,13 @@ open '/usr/local/Caskroom/visual-studio/2017-01-20-1/Install Visual Studio for M
 
 啟動安裝程式如下：
 
+![](/images/Visual Studio for Mac安裝/01_License_Terms.jpg)
+
+![](/images/Visual Studio for Mac安裝/02_Preparing to install Visual Studio for Mac Preview.jpg)
+
+![](/images/Visual Studio for Mac安裝/03_Visual Studio for Mac Preview installer.jpg)
+
+![](/images/Visual Studio for Mac安裝/04_Visual Studio for Mac Preview Installer.jpg)
 
 
 
