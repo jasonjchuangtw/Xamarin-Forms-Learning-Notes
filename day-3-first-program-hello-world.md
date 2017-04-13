@@ -28,10 +28,9 @@ App Name跟Organization identifier要輸入，就Next：
 
 有幾個重點：
 
-1. ``Open Xamarin.Forms Previewer``：可以透過這個預覽XAML，但沒有``Drag and Draw ``拖拉的效果，僅預覽。
-2. ``Add a new XAML ContentPage``：用以新增頁面。
-3. 在``Solution Pad``中有一個方案下包含三個專案，分別是``HelloWorld``、``HelloWorld.Droid``及``HelloWorld.iOS``，值得一提的是HelloWorld是被另外兩個專案所參考。
-
+1. `Open Xamarin.Forms Previewer`：可以透過這個預覽XAML，但沒有`Drag and Draw`拖拉的效果，僅預覽。
+2. `Add a new XAML ContentPage`：用以新增頁面。
+3. 在`Solution Pad`中有一個方案下包含三個專案，分別是`HelloWorld`、`HelloWorld.Droid`及`HelloWorld.iOS`，值得一提的是HelloWorld是被另外兩個專案所參考。
 
 
 
