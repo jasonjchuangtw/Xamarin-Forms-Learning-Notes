@@ -10,5 +10,7 @@
 
 選擇**Restart and Install Updates**，畫面如下：![](/images/Day3/03.jpg)
 
+選擇Multiplatform的Blank Forms App，啟動App Wizard：
 
+ 
 
