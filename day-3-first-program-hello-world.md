@@ -77,7 +77,7 @@ namespace HelloWorld.iOS
 
 觀察``HelloWorld.Droid``專案中的``MainActivity.cs``，
 
-```cs
+```csharp
 namespace HelloWorld.Droid
 {
 	[Activity(Label = "HelloWorld.Droid", Icon = "@drawable/icon", Theme = "@style/MyTheme", MainLauncher = true, ConfigurationChanges = ConfigChanges.ScreenSize | ConfigChanges.Orientation)]
