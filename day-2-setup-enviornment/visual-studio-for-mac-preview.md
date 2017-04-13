@@ -23,7 +23,21 @@ open '/usr/local/Caskroom/visual-studio/2017-01-20-1/Install Visual Studio for M
 
 ![](/images/Visual Studio for Mac Preview/01_License_Terms.jpg)
 
-
-
 ![](/images/Visual Studio for Mac Preview/02_Preparing to install Visual Studio for Mac Preview.jpg)
+
+
+
+![](/images/Visual Studio for Mac Preview/03_Visual Studio for Mac Preview installer.jpg)
+
+
+
+![](/images/Visual Studio for Mac Preview/04_Visual Studio for Mac Preview Installer.jpg)
+
+
+
+![](/images/Visual Studio for Mac Preview/05_Remember to install Xcode.jpg)
+
+
+
+![](/images/Visual Studio for Mac Preview/06_Installation successful.jpg)
 
