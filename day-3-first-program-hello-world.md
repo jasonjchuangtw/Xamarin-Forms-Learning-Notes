@@ -10,7 +10,11 @@
 
 選擇**Restart and Install Updates**，畫面如下：![](/images/Day3/03.jpg)
 
-選擇Multiplatform的Blank Forms App，啟動App Wizard：
+選擇Multiplatform的Blank Forms App，啟動App Wizard：![](/images/Day3/04.jpg)
 
- 
+App Name跟Organization identifier要輸入，就Next：![](/images/Day3/05.jpg)
+
+出現主畫面，Getting Started，共產生![](/images/Day3/06.jpg)
+
+![](/images/Day3/06.jpg)
 
