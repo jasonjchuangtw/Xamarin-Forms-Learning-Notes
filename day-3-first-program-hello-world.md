@@ -32,12 +32,9 @@
 2. ``Add a new XAML ContentPage``：用以新增頁面。
 3. 在``Solution Pad``中有一個方案下包含三個專案，分別是``HelloWorld``、``HelloWorld.Droid``及``HelloWorld.iOS``，值得一提的是``HelloWorld``是被另外兩個專案所參考。
 
-觀察``HelloWorld.iOS``可以發現，如下代碼：
+觀察``HelloWorld.iOS``的``Main.cs``：
 
-
-> Main.cs
-
-```cs
+```csharp
 namespace HelloWorld.iOS
 {
 	public class Application
@@ -53,9 +50,9 @@ namespace HelloWorld.iOS
 }
 ```
 
-> AppDelegate.cs
+可以發現會去呼叫``AppDelegate``類別：
 
-```cs
+```csharp
 namespace HelloWorld.iOS
 {
 	[Register("AppDelegate")]
@@ -73,7 +70,7 @@ namespace HelloWorld.iOS
 }
 ```
 
-根據上述，透過``FormsApplicationDelegate.LoadApplication``方法啟動Xamarin.Forms。
+``AppDelegate``類別在``FinishedLaunching``事件中，透過``FormsApplicationDelegate.LoadApplication``方法啟動Xamarin.Forms。
 
 觀察``HelloWorld.Droid``專案中的``MainActivity.cs``，
 
