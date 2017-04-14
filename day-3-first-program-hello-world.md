@@ -97,7 +97,25 @@ namespace HelloWorld.Droid
 
 ``MainActivity``類別在``OnCreate``事件中呼叫``LoadApplication``方法啟動``Ｘamarin.Forms``。
 
+觀察``HelloWorld``專案中的``App.xaml.cs``，如下：
 
+```csharp
+using Xamarin.Forms;
 
+namespace HelloWorld
+{
+	public partial class App : Application
+	{
+		public App()
+		{
+			InitializeComponent();
 
+			MainPage = new HelloWorldPage();
+		}
+        ...
+	}
+}
+```
+
+在設定``MainPage``屬性為``HelloWorldPage``物件，就這點跟WPF有差異，WPF是透過``App.xaml``中的``Application``頁籤中設定。
 
