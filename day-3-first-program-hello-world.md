@@ -70,7 +70,7 @@ namespace HelloWorld.iOS
 }
 ```
 
-`AppDelegate`類別在`FinishedLaunching`事件中，透過`FormsApplicationDelegate.LoadApplication`方法啟動Xamarin.Forms。
+``AppDelegate``類別在``FinishedLaunching``事件中，透過``FormsApplicationDelegate.LoadApplication``方法啟動Xamarin.Forms。
 
 觀察`HelloWorld.Droid`專案中的`MainActivity.cs`，
 
@@ -94,6 +94,10 @@ namespace HelloWorld.Droid
     }
 }
 ```
+
+``MainActivity``類別在``OnCreate``事件中呼叫``LoadApplication``方法啟動``Ｘamarin.Forms``。
+
+
 
 
 
