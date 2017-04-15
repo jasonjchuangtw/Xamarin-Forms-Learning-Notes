@@ -123,5 +123,19 @@ namespace HelloWorld
 
 由上可以初步得知，雖然都是基於XAML技術，但WPF跟Xamarin.Forms還是有差異。
 
-接下來我要要將
+觀察專案``HelloWorld``的``HelloWorldPage.xaml``內容：
 
+```xml
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage
+	xmlns="http://xamarin.com/schemas/2014/forms"
+	xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+	xmlns:local="clr-namespace:HelloWorld"
+	x:Class="HelloWorld.HelloWorldPage">
+	<Label
+		Text="Welcome to Xamarin Forms!"
+		VerticalOptions="Center"
+		HorizontalOptions="Center"
+	/>
+</ContentPage>
+```
