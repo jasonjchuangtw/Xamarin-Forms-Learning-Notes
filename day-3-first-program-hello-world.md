@@ -142,7 +142,7 @@ Simulator畫面如下：
 
 ![](/images/Day3/10.jpg) ![](/images/Day3/13.jpg)
 
-可以發現其實在iOS跟Android上顯示結果是不同的，這是因為如果沒有特別設定，都會系統預設值，那iOS跟Android的預設值是不同的。
+可以發現其實在iOS跟Android上顯示結果是不同的，這是因為如果沒有特別設定，都用系統預設值，那iOS跟Android的預設值是不同的。
 
 所以我們要調整這個，修改如下：
 
