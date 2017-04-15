@@ -138,4 +138,9 @@ namespace HelloWorld
 
 ![](/images/Day3/09.jpg)
 
+Simulator畫面如下：
+
+![](/images/Day3/10.jpg)
+
+
 
