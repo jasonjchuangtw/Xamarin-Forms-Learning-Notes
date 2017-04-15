@@ -10,6 +10,8 @@
 
 ![](/images/Day3/02.jpg)
 
+選項中有[Portable Class Libraries](https://msdn.microsoft.com/en-us/library/gg597391(v=vs.100).aspx)跟Shared Library，這個技術上差異另外討論。
+
 選擇`Restart and Install Updates`，畫面如下：
 
 ![](/images/Day3/03.jpg)
@@ -119,5 +121,7 @@ namespace HelloWorld
 
 在設定`MainPage`屬性為`HelloWorldPage`物件，就這點跟WPF有差異，WPF是透過`App.xaml`中的`Application`頁籤中設定。
 
-由上可以初步得知，
+由上可以初步得知，雖然都是基於XAML技術，但WPF跟Xamarin.Forms還是有差異。
+
+接下來我要要將
 
