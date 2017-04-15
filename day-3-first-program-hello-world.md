@@ -10,7 +10,7 @@
 
 ![](/images/Day3/02.jpg)
 
-選項中有[Portable Class Libraries](https://msdn.microsoft.com/en-us/library/gg597391(v=vs.100).aspx)跟Shared Library，這個技術上差異另外討論。
+選項中有[Portable Class Libraries](https://msdn.microsoft.com/en-us/library/gg597391%28v=vs.100%29.aspx)[跟Shared](https://msdn.microsoft.com/en-us/library/gg597391%28v=vs.100%29.aspx%29跟Shared) Library，這個技術上差異另外討論。
 
 選擇`Restart and Install Updates`，畫面如下：
 
