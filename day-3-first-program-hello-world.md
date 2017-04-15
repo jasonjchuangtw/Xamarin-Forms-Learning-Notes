@@ -142,5 +142,19 @@ Simulator畫面如下：
 
 ![](/images/Day3/10.jpg) ![](/images/Day3/13.jpg)
 
+可以發現其實在iOS跟Android上顯示結果是不同的，這是因為如果沒有特別設定，都會系統預設值，那iOS跟Android的預設值是不同的。
 
+所以我們要調整這個，修改如下：
 
+```xml
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage BackgroundColor="White" xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:local="clr-namespace:HelloWorld" x:Class="HelloWorld.HelloWorldPage">
+	<Label Font="Microsoft JhengHei" FontSize="48" TextColor="Black" BackgroundColor="White" Text="Hello, World." VerticalOptions="Center" HorizontalOptions="Center" />
+</ContentPage>
+```
+
+強制指定字型跟顏色等，效果如下：
+
+![](/images/Day3/14.jpg)
+
+OK，完成我們第一個跨平台的APP。
