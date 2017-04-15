@@ -8,6 +8,7 @@
 6. [Xamarin.Forms Succinctly](https://www.syncfusion.com/resources/techportal/details/ebooks/xamarinforms)
 7. [Xamarin.Forms](https://developer.xamarin.com/guides/#xamarin-forms)
 8. [Xamarin Forms: Build Native Cross-platform Apps with C\#](https://www.udemy.com/xamarin-forms-course/)
+9. [The Xamarin Show](https://channel9.msdn.com/Shows/XamarinShow)
 
 
 
