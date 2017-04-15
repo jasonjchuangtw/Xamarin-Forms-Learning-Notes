@@ -8,5 +8,6 @@
 * [Day 3: First Program, Hello World.](day-3-first-program-hello-world.md)
   * [Visual Studio for Mac Preview](day-3-first-program-hello-world/visual-studio-for-mac-preview.md)
 * [Day 4: Second Program, Phoneword.](day-4-second-program-phoneword.md)
-  * 
+
+
 
