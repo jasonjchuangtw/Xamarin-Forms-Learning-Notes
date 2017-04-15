@@ -131,3 +131,11 @@ namespace HelloWorld
 	<Label Text="Welcome to Xamarin Forms!" VerticalOptions="Center" HorizontalOptions="Center"/>
 </ContentPage>
 ```
+
+修改``<Label Text=""/>``內容為``"Hello, World."``。
+
+啟動對``HelloWorld.iOS``除錯：
+
+![](/images/Day3/09.jpg)
+
+
