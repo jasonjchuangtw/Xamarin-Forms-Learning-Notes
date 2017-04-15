@@ -134,20 +134,13 @@ namespace HelloWorld
 
 修改``<Label Text=""/>``內容為``"Hello, World."``。
 
-啟動對``HelloWorld.iOS``除錯：
+分別對``HelloWorld.iOS``及``HelloWorld.Dorid``除錯：
 
-![](/images/Day3/09.jpg)
-
-Simulator畫面如下：
-
-![](/images/Day3/11.jpg)
-
-啟動對``HelloWorld.Dorid``除錯：
-
-![](/images/Day3/12.jpg)
+![](/images/Day3/11.jpg) ![](/images/Day3/12.jpg)
 
 Simulator畫面如下：
 
-![](/images/Day3/13.jpg)
+![](/images/Day3/10.jpg) ![](/images/Day3/13.jpg)
+
 
 
