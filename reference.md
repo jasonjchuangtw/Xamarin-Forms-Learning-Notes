@@ -9,6 +9,8 @@
 7. [Xamarin.Forms](https://developer.xamarin.com/guides/#xamarin-forms)
 8. [Xamarin Forms: Build Native Cross-platform Apps with C\#](https://www.udemy.com/xamarin-forms-course/)
 9. [The Xamarin Show](https://channel9.msdn.com/Shows/XamarinShow)
+10. [Xamarin.Forms 不豪洨實戰應用教學](https://www.youtube.com/playlist?list=PLwy0WTzBokTPxJHF_k0XXX7Gc0qqvIb6B)
+    1. [JimmyXamarinExample](https://github.com/02047788a/JimmyXamarinExample)
 
 
 
