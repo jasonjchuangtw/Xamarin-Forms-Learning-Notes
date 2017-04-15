@@ -6,6 +6,8 @@
 4. 邊緣技術宅羅根 [Xamarin 教學](http://www.loganedge.tw/search/label/Xamarin 教學)
 5. [Developer Center - Xamarin](https://developer.xamarin.com)
 6. [Xamarin.Forms Succinctly](https://www.syncfusion.com/resources/techportal/details/ebooks/xamarinforms)
+7. [Xamarin.Forms](https://developer.xamarin.com/guides/#xamarin-forms)
+8. [Xamarin Forms: Build Native Cross-platform Apps with C\#](https://www.udemy.com/xamarin-forms-course/)
 
 
 
