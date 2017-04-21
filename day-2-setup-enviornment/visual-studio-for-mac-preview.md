@@ -1,4 +1,4 @@
-Visual Studio for Mac Preview可以透過[Homebrew Cask](https://caskroom.github.io)安裝，指令如下：
+`Visual Studio for Mac Preview`可以透過[Homebrew Cask](https://caskroom.github.io)安裝，指令如下：
 
 ```bash
 brew cask install visual-studio
