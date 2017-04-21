@@ -1,4 +1,4 @@
-啟動Visual Studio for Mac Preview，圖示如下：
+啟動`Visual Studio for Mac Preview`，圖示如下：
 
 ![](https://msdnshared.blob.core.windows.net/media/2017/03/vs-for-mac-logo-caption2.png)
 
