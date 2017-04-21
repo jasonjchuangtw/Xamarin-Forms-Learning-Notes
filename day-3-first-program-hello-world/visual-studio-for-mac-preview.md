@@ -1,4 +1,4 @@
-啟動`Visual Studio for Mac`，圖示如下：
+啟動Visual Studio for Mac Preview，圖示如下：
 
 ![](https://msdnshared.blob.core.windows.net/media/2017/03/vs-for-mac-logo-caption2.png)
 
@@ -121,18 +121,18 @@ namespace HelloWorld
 
 由上可以初步得知，雖然都是基於XAML技術，但WPF跟Xamarin.Forms還是有差異。
 
-觀察專案``HelloWorld``的``HelloWorldPage.xaml``內容：
+觀察專案`HelloWorld`的`HelloWorldPage.xaml`內容：
 
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:local="clr-namespace:HelloWorld" x:Class="HelloWorld.HelloWorldPage">
-	<Label Text="Welcome to Xamarin Forms!" VerticalOptions="Center" HorizontalOptions="Center"/>
+    <Label Text="Welcome to Xamarin Forms!" VerticalOptions="Center" HorizontalOptions="Center"/>
 </ContentPage>
 ```
 
-修改``<Label Text=""/>``內容為``"Hello, World."``。
+修改`<Label Text=""/>`內容為`"Hello, World."`。
 
-分別對``HelloWorld.iOS``及``HelloWorld.Dorid``除錯：
+分別對`HelloWorld.iOS`及`HelloWorld.Dorid`除錯：
 
 ![](/images/Day3/11.jpg) ![](/images/Day3/12.jpg)
 
@@ -147,7 +147,7 @@ Simulator畫面如下：
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
 <ContentPage BackgroundColor="White" xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:local="clr-namespace:HelloWorld" x:Class="HelloWorld.HelloWorldPage">
-	<Label Font="Microsoft JhengHei" FontSize="48" TextColor="Black" BackgroundColor="White" Text="Hello, World." VerticalOptions="Center" HorizontalOptions="Center" />
+    <Label Font="Microsoft JhengHei" FontSize="48" TextColor="Black" BackgroundColor="White" Text="Hello, World." VerticalOptions="Center" HorizontalOptions="Center" />
 </ContentPage>
 ```
 
@@ -156,3 +156,4 @@ Simulator畫面如下：
 ![](/images/Day3/14.jpg)
 
 OK，完成我們第一個跨平台的APP。
+
