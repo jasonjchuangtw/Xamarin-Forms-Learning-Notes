@@ -216,5 +216,7 @@ namespace Phoneword.Droid
 }
 ```
 
+因為需要撥打電話，在Andorid需要使用者enable該功能所以在Android專案開啟選項如下：
+
 
 
