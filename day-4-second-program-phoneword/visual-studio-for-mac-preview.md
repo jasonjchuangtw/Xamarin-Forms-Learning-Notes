@@ -73,5 +73,9 @@ namespace Phoneword
 
 修改 `App.xaml.cs` ，使得 `MainPage` 指向 `MainPage` ，如下：
 
-  
+```cs
+MainPage = new MainPage();
+```
+
+
 
