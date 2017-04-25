@@ -219,3 +219,5 @@ namespace Phoneword.Droid
 因為需要撥打電話，在Andorid需要使用者enable該功能所以在Android專案開啟選項如下：
 
 ![](/images/Day4/02.jpg)
+
+編譯程式確認是否有問題。
