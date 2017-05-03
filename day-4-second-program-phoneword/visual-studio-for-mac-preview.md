@@ -133,7 +133,7 @@ namespace Core
 }
 ```
 
-`IDialer.cs`
+新增`IDialer.cs`，並修改內容如下：
 
 ```csharp
 namespace Phoneword
@@ -145,7 +145,7 @@ namespace Phoneword
 }
 ```
 
-`PhoneDialer.cs`
+新增`PhoneDialer.cs`，並修改內容如下：
 
 ```csharp
 using Foundation;
@@ -167,7 +167,7 @@ namespace Phoneword.iOS
 }
 ```
 
-`PhoneDialer.cs`
+新增`PhoneDialer.cs`，並修改內容如下：
 
 ```csharp
 using Android.Content;
@@ -221,3 +221,4 @@ namespace Phoneword.Droid
 ![](/images/Day4/02.jpg)
 
 編譯程式確認是否有問題。
+
