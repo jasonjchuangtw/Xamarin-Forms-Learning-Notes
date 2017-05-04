@@ -222,3 +222,5 @@ namespace Phoneword.Droid
 
 編譯程式確認是否有問題。
 
+[![](/assets/03.png)](images/Day4)![](/assets/04.png)
+
