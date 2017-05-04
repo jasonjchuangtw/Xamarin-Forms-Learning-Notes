@@ -8,8 +8,6 @@
 
 ![](https://developer.xamarin.com/guides/xamarin-forms/getting-started/hello-xamarin-forms/deepdive/Images/xs/architecture.png)
 
-
-
 ### User Interface
 
 1. Pages:[ Xamarin.Forms Pages](https://developer.xamarin.com/guides/xamarin-forms/user-interface/controls/pages/)
@@ -87,6 +85,14 @@
    19. [WebView](https://developer.xamarin.com/api/type/Xamarin.Forms.WebView/)
 
 4. Cells: [Xamarin.Forms Cells](https://developer.xamarin.com/guides/xamarin-forms/user-interface/controls/cells/)
+
+   1. [EntryCell](http://iosapi.xamarin.com/?link=T%3aXamarin.Forms.EntryCell)
+
+   2. [SwitchCell](http://iosapi.xamarin.com/?link=T%3aXamarin.Forms.SwitchCell)
+
+   3. [TextCell](http://iosapi.xamarin.com/?link=T%3aXamarin.Forms.TextCell)
+
+   4. [ImageCell](http://iosapi.xamarin.com/?link=T%3aXamarin.Forms.ImageCell)
 
 
 
