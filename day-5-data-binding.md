@@ -10,7 +10,11 @@ Data Binding是XAML語法中的物件屬性直接關連技術。
 
 
 
-> Data bindings connect properties of two objects, called the_source_and the_target_. In code, two steps are required: The`BindingContext`property of the target object must be set to the source object, and the`SetBinding`method \(often used in conjunction with the`Binding`class\) must be called on the target object to bind a property of that object to a property of the source object.
+物件主要分兩個：source跟target，
+
+
+
+> Data bindings connect properties of two objects, called the_source\_and the\_target_. In code, two steps are required: The`BindingContext`property of the target object must be set to the source object, and the`SetBinding`method \(often used in conjunction with the`Binding`class\) must be called on the target object to bind a property of that object to a property of the source object.
 >
 > The target property must be a bindable property, which means that the target object must derive from`BindableObject`. The online Xamarin.Forms documentation indicates which properties are bindable properties.
 >
@@ -20,8 +24,5 @@ Data Binding是XAML語法中的物件屬性直接關連技術。
 >
 > Bindings are used most often to connect the visuals of a program with an underlying data model, usually in a realization of the MVVM \(Model-View-ViewModel\) application architecture, as discussed in[Part 5. From Data Bindings to MVVM.](https://developer.xamarin.com/guides/xamarin-forms/xaml/xaml-basics/data_bindings_to_mvvm/)But other scenarios are possible.
 
-
-
-  
 
 
